@@ -1,5 +1,5 @@
 - hi, i’m @antohaut
-- i do researches on video games :)
+- i do researches on video games and medievalism :)
 - master degree in french medieval literature, currently doing a master in game design and analysis in communication studies  
 - he/him
 
