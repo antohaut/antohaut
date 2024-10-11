@@ -1,6 +1,6 @@
 - hi, i’m @antohaut
-- i do researches on video games and medievalism :)
-- master degree in french medieval literature, currently doing a master in game design and analysis in communication studies  
+- i do research on video games and medievalism :)
+- master degree in french medieval literature, currently doing a master's thesis in game design and analysis in communication studies  
 - he/him
 
 <!---
